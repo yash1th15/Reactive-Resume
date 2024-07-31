@@ -118,7 +118,7 @@ const Question3 = () => (
       <p>
         <strong>If you found a bug or have an idea for a feature</strong>, raise an issue on{" "}
         <a
-          href="https://github.com/AmruthPillai/Reactive-Resume/issues/new/choose"
+          href="https://github.com/yashdevv/reactive-resume/issues/new/choose"
           target="_blank"
           rel="noreferrer"
         >
